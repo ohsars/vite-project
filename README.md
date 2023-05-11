@@ -1,5 +1,5 @@
 # vite-project
-####### VITE PROJECT involving crud functionality
+VITE PROJECT involving crud functionality ✅
 
 
 ## Basic Employee Management System 
@@ -8,10 +8,10 @@
 
 ## Technologies Used
   -- Vite + React-TS
-  -- TailwindCSS
+  -- TailwindCSS 💯
 
 
 
 
 
-##Thanks
+# Thanks👍
