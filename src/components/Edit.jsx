@@ -19,9 +19,9 @@ function Edit() {
         e.preventDefault();
     
         let a = Employees[index];
-        a.name = name;
-        a.age = age;
-        a.address = address;
+        a.Name = name
+        a.Age = age
+        a.Address = address
     
         history("/");
       };
@@ -30,7 +30,7 @@ function Edit() {
         setName(localStorage.getItem('Name'))
         setAge(localStorage.getItem('Age'))
         setAddress(localStorage.getItem('Address'))
-        setId(localStorage.getItem('Id'))
+        setId(localStorage.getItem('id'))
       },[])
 
     return (
